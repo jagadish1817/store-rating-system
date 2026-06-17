@@ -12,3 +12,15 @@
 - Node.js
 - Express
 - MySQL
+
+## How to Run
+
+3. Run backend  
+cd backend  
+npm install  
+node server.js  
+
+4. Run frontend  
+cd frontend  
+npm install  
+npm start
